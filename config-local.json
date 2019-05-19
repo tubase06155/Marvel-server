@@ -1,0 +1,6 @@
+{
+    "mongoPath": "mongodb://admin:provkl123@ds245523.mlab.com:45523/marvel_pj",
+    "sessionSecret": "himitsu",
+    "secureCookie": false
+  }
+  
